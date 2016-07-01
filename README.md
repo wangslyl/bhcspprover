@@ -3,8 +3,8 @@ The provers of bHCSP and a train on-board control example .
 All of them are implemented in Isabelle2015. 
 
 The embedding of the prover based on the time aware inference system includes the following files:
-DCSequents/ILSequent.thy,
-DCSequents/DCSequent.thy, 
+ILSequent.thy,
+DCSequent.thy, 
 bHCSP_Com.thy,
 Inference.thy
 
